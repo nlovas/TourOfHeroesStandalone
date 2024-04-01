@@ -1,4 +1,9 @@
-# TourOfHeroes
+#Tour of Heroes - Standalone
+
+This is a project following a *tweaked* version of the 6 steps in the Angular [Tour of Heroes tutorial](https://angular.io/tutorial/tour-of-heroes). The tutorial is out of date and does not work for standalone projects (the default now for new Angular projects) so I adapted it for a standalone application with no app module file.
+
+Step 6 (Getting data from a mock server) greatly aided by this guide! https://www.concretepage.com/angular/in-memory-web-api-angular-standalone
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
 
